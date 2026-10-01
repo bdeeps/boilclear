@@ -1,0 +1,923 @@
+{
+  "title": "The history of boiling water",
+  "tagline": "From a spinning steam ball in Alexandria to the cooker whistle in an Indian kitchen: how people learned what boiling really is.",
+  "intro": "People boiled water for thousands of years before anyone could say what was happening in the pot. The answer came in pieces: air has pressure, steam carries hidden heat, and the boiling point is not a fixed number at all. Each piece changed kitchens, engines and even the way a mountain is measured.",
+  "eras": [
+    {
+      "id": "steam",
+      "name": "Steam before science",
+      "from": -200,
+      "to": 1640,
+      "color": "#5ce1a9",
+      "summary": "People distil, steam and simmer with skill, and a steam toy spins in Alexandria, but nobody can yet say why water boils when it does."
+    },
+    {
+      "id": "air",
+      "name": "Air, pressure and thermometers",
+      "from": 1640,
+      "to": 1760,
+      "color": "#ffb547",
+      "summary": "The barometer shows that air presses on everything. Water is made to boil in a vacuum and to stay liquid in a sealed pot, and thermometers put numbers on it."
+    },
+    {
+      "id": "heat",
+      "name": "Hidden heat and steam power",
+      "from": 1760,
+      "to": 1830,
+      "color": "#ff7a59",
+      "summary": "Joseph Black finds the heat that disappears into steam, James Watt builds an engine around it, and the vapour pressure of water is measured degree by degree."
+    },
+    {
+      "id": "laws",
+      "name": "The laws of vapour",
+      "from": 1830,
+      "to": 1930,
+      "color": "#c49bff",
+      "summary": "Clapeyron and Clausius explain the shape of the boiling curve, Regnault measures steam precisely, and an Indian surveyor uses a boiling pot to measure Tibet."
+    },
+    {
+      "id": "kitchen",
+      "name": "Boiling, engineered",
+      "from": 1930,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "The boiling curve is mapped, the pressure cooker reaches home kitchens in India and around the world, and temperature itself is redefined."
+    }
+  ],
+  "events": [
+    {
+      "year": -150,
+      "date": "c. 150 BCE – 350 CE (debated)",
+      "era": "steam",
+      "art": "flask",
+      "key": false,
+      "title": "Clay stills at Taxila",
+      "who": "Potters and distillers of Gandhara",
+      "where": "Taxila and Shaikhan Dheri, Gandhara",
+      "country": "Pakistan",
+      "text": "Excavations in ancient Gandhara found clay vessels that the archaeologist F. R. Allchin read as stills: a pot to boil a liquid, and a tube leading the vapour to a cooled receiver. The dating and the reading are still debated by historians.",
+      "why": "If the reading is right, people in the subcontinent were boiling a liquid and condensing its vapour on purpose about two thousand years ago.",
+      "box": "",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 60,
+      "date": "c. 60 CE",
+      "era": "steam",
+      "art": "ball",
+      "key": true,
+      "title": "A ball that spins on steam",
+      "who": "Hero of Alexandria",
+      "where": "Alexandria, Roman Egypt",
+      "country": "Egypt",
+      "text": "Hero described the aeolipile: a hollow ball mounted over a closed pot of boiling water. Steam rushed out of two bent nozzles and the ball spun. An earlier Roman writer, Vitruvius, also mentions devices by this name.",
+      "why": "It is the first recorded machine driven by steam, though nobody used it for work.",
+      "box": "",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 200,
+      "date": "1st to 3rd century CE (known from later writers)",
+      "era": "steam",
+      "art": "flask",
+      "key": false,
+      "title": "The water bath",
+      "who": "Maria the Jewess (attributed)",
+      "where": "Alexandria, Roman Egypt",
+      "country": "Egypt",
+      "text": "The alchemist Maria is credited by later writers with heating things gently inside a second vessel of water. Because boiling water cannot go above its boiling point, whatever sits in the bath can never get hotter than that.",
+      "why": "The bain-marie still carries her name, and it works because of the flat step in the heating curve.",
+      "box": "curve",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1643,
+      "date": "1643",
+      "era": "air",
+      "art": "scales",
+      "key": false,
+      "title": "The air has weight",
+      "who": "Evangelista Torricelli",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "Torricelli filled a glass tube with mercury and turned it upside down in a dish. The column stayed about 76 cm high, held up by the pressure of the air outside. He had made the first barometer.",
+      "why": "Before anyone could link boiling to pressure, someone had to show that the air presses on everything.",
+      "box": "",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1648,
+      "date": "19 September 1648",
+      "era": "air",
+      "art": "mountain",
+      "key": false,
+      "title": "Less air on a mountain",
+      "who": "Florin Périer and Blaise Pascal",
+      "where": "Puy de Dôme, France",
+      "country": "France",
+      "text": "At Pascal's request his brother-in-law Florin Périer carried a barometer up the Puy de Dôme. The mercury stood about 8 cm lower at the top than in the town below.",
+      "why": "It proved that air pressure falls as you climb, which is exactly why water boils cooler in the hills.",
+      "box": "pressure",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1660,
+      "date": "1660",
+      "era": "air",
+      "art": "flask",
+      "key": false,
+      "title": "Warm water boils in a vacuum",
+      "who": "Robert Boyle and Robert Hooke",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "Using the air pump that Hooke built for him, Boyle put warm water under a glass receiver and pumped the air out. The water, which had been calm, began to boil without any fire.",
+      "why": "It was the first clear sign that boiling depends on the pressure around the water, not only on heat.",
+      "box": "pressure",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1679,
+      "date": "22 May 1679",
+      "era": "air",
+      "art": "flame",
+      "key": true,
+      "title": "The first pressure cooker",
+      "who": "Denis Papin",
+      "where": "Royal Society, London, England",
+      "country": "United Kingdom",
+      "text": "Papin showed the Royal Society his 'digester': a thick sealed pot in which trapped steam raised the pressure, so the water got much hotter than in an open pot and softened bones. After early models burst, he added a weighted safety valve. He published it in 1681.",
+      "why": "Every pressure cooker since works the same way, and the weight on its vent is Papin's valve.",
+      "box": "pressure",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1712,
+      "date": "1712",
+      "era": "air",
+      "art": "engine",
+      "key": false,
+      "title": "Boiling water pumps a mine",
+      "who": "Thomas Newcomen",
+      "where": "Dudley, England",
+      "country": "United Kingdom",
+      "text": "Newcomen's engine filled a cylinder with steam from a boiler, then sprayed in cold water. The steam condensed, left a partial vacuum, and the air pushed the piston down. It drained coal and tin mines.",
+      "why": "It was the first practical engine to run on boiling and condensing water, though it wasted most of its fuel.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1724,
+      "date": "1724",
+      "era": "air",
+      "art": "thermometer",
+      "key": true,
+      "title": "A reliable thermometer, and a clue",
+      "who": "Daniel Gabriel Fahrenheit",
+      "where": "Amsterdam, Dutch Republic",
+      "country": "Netherlands",
+      "text": "Fahrenheit, born in Danzig, made the first mercury thermometers that agreed with one another and published his scale in 1724. He also reported that the boiling point of water moves with the height of the barometer.",
+      "why": "Good thermometers turned 'water boils' into a number, and showed that the number is not fixed.",
+      "box": "pressure",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1742,
+      "date": "1742",
+      "era": "air",
+      "art": "thermometer",
+      "key": true,
+      "title": "A hundred steps between freezing and boiling",
+      "who": "Anders Celsius",
+      "where": "Uppsala, Sweden",
+      "country": "Sweden",
+      "text": "Celsius proposed a scale with 100 degrees between the freezing and boiling points of water, and specified the air pressure at which boiling should be measured. His scale ran backwards, with boiling at 0. It was turned round shortly afterwards; Carl Linnaeus and Jean-Pierre Christin are among those credited.",
+      "why": "This is why we say water boils at 100 °C, and why that statement comes with a pressure attached.",
+      "box": "",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1756,
+      "date": "1756",
+      "era": "air",
+      "art": "waterdrop",
+      "key": false,
+      "title": "Drops that dance on a hot pan",
+      "who": "Johann Gottlob Leidenfrost",
+      "where": "Duisburg, Prussia",
+      "country": "Germany",
+      "text": "Leidenfrost described how a drop of water on a very hot spoon does not boil away at once. It skates around on a cushion of its own vapour, which insulates it from the metal.",
+      "why": "It is why water drops skitter on a hot tawa, and it showed that boiling has more than one form.",
+      "box": "pot",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1762,
+      "date": "1761–1762",
+      "era": "heat",
+      "art": "flame",
+      "key": true,
+      "title": "Hidden heat",
+      "who": "Joseph Black",
+      "where": "University of Glasgow, Scotland",
+      "country": "United Kingdom",
+      "text": "Black noticed that a pot of boiling water stays at the same temperature while the fire keeps heating it. He measured how much heat disappeared into the steam and called it latent heat. He taught it in his lectures and never published it as a book himself.",
+      "why": "It separated heat from temperature for the first time, and explained the flat step in the heating curve.",
+      "box": "curve",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1765,
+      "date": "1765 (patented 1769)",
+      "era": "heat",
+      "art": "engine",
+      "key": true,
+      "title": "A separate condenser",
+      "who": "James Watt",
+      "where": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "text": "Repairing a model Newcomen engine, Watt saw that most of the steam was wasted re-heating a cylinder that had just been chilled. Knowing from Black how much heat steam carries, he condensed it in a separate cold vessel and kept the cylinder hot.",
+      "why": "It cut the engine's coal use by roughly three quarters and made steam power pay.",
+      "box": "curve",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1772,
+      "date": "1772",
+      "era": "heat",
+      "art": "mountain",
+      "key": false,
+      "title": "Measuring a mountain with a kettle",
+      "who": "Jean-André Deluc",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "Deluc carried thermometers and barometers up the Alps and worked out rules linking the boiling point of water to air pressure and height. A boiling-point thermometer used this way is called a hypsometer.",
+      "why": "Travellers could now find their height by boiling water, with no fragile barometer.",
+      "box": "pressure",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1802,
+      "date": "1801–1802",
+      "era": "heat",
+      "art": "molecule",
+      "key": false,
+      "title": "Vapour pressure gets a table",
+      "who": "John Dalton",
+      "where": "Manchester, England",
+      "country": "United Kingdom",
+      "text": "Dalton measured the pressure of water vapour at temperatures from freezing to boiling and found that it depends only on temperature, not on how much air is present. He also stated that gases in a mixture each add their own pressure.",
+      "why": "This is the curve on the chart in chapter 3: boiling starts where it meets the outside pressure.",
+      "box": "bubbles",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1822,
+      "date": "1822",
+      "era": "heat",
+      "art": "flask",
+      "key": false,
+      "title": "Where liquid and gas become one",
+      "who": "Charles Cagniard de la Tour",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Heating liquids in sealed gun barrels and glass tubes, Cagniard de la Tour found a temperature above which the boundary between liquid and vapour vanishes. For water this critical point is at about 374 °C and 220 atmospheres.",
+      "why": "Above it there is no boiling at all, which is the far end of the vapour-pressure curve.",
+      "box": "",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1834,
+      "date": "1834",
+      "era": "laws",
+      "art": "scroll",
+      "key": true,
+      "title": "The slope of the boiling curve",
+      "who": "Émile Clapeyron",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Clapeyron turned Sadi Carnot's ideas about heat engines into mathematics. One result was an equation linking how fast vapour pressure rises with temperature to the latent heat and the change in volume when a liquid boils.",
+      "why": "It explains why the vapour-pressure curve climbs so steeply, and so why a little extra pressure buys several degrees.",
+      "box": "bubbles",
+      "sources": [
+        27,
+        26
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1847",
+      "era": "laws",
+      "art": "thermometer",
+      "key": false,
+      "title": "Steam measured properly",
+      "who": "Henri Victor Regnault",
+      "where": "Paris and Sèvres, France",
+      "country": "France",
+      "text": "Paid by the French government to help engine builders, Regnault measured the vapour pressure and latent heat of steam far more carefully than anyone before, up to many atmospheres. His tables were the standard for decades.",
+      "why": "Engineers designing boilers and cookers still use steam tables, the descendants of his.",
+      "box": "",
+      "sources": [
+        29,
+        24
+      ]
+    },
+    {
+      "year": 1850,
+      "date": "1850",
+      "era": "laws",
+      "art": "scroll",
+      "key": false,
+      "title": "Clausius finishes the equation",
+      "who": "Rudolf Clausius",
+      "where": "Berlin, Prussia",
+      "country": "Germany",
+      "text": "Clausius rebuilt Clapeyron's equation on the new idea that heat is a form of energy, not a fluid. In its simple form, the Clausius–Clapeyron equation, it predicts the boiling point at any pressure from the latent heat.",
+      "why": "It is the dashed line in this box's chart, and it is still how boiling points are estimated.",
+      "box": "bubbles",
+      "sources": [
+        28,
+        26
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "1865–1866",
+      "era": "laws",
+      "art": "mountain",
+      "key": true,
+      "title": "A height for Lhasa, from a boiling pot",
+      "who": "Nain Singh Rawat",
+      "where": "Kumaon, India, to Lhasa, Tibet",
+      "country": "India",
+      "text": "Nain Singh, a schoolteacher from Kumaon working for the Survey of India, walked to Lhasa disguised as a pilgrim. He counted his paces to measure distance and secretly boiled water to find the height. His figure for Lhasa, about 3,420 m, is close to modern figures of about 3,600 m.",
+      "why": "It put Lhasa on the map using nothing but the fact that water boils cooler when the air is thinner.",
+      "box": "pressure",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1878–1887",
+      "era": "laws",
+      "art": "flask",
+      "key": false,
+      "title": "Why salt water boils a little hotter",
+      "who": "François-Marie Raoult",
+      "where": "Grenoble, France",
+      "country": "France",
+      "text": "Raoult measured how dissolving things in a liquid lowers its vapour pressure, lowers its freezing point and raises its boiling point. The change depends on how many particles are dissolved, not on what they are.",
+      "why": "It is the rule behind the salt slider: a teaspoon in a litre is worth about a tenth of a degree.",
+      "box": "kitchen",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "kitchen",
+      "art": "coil",
+      "key": true,
+      "title": "The boiling curve",
+      "who": "Shiro Nukiyama",
+      "where": "Tohoku Imperial University, Sendai, Japan",
+      "country": "Japan",
+      "text": "Nukiyama heated a thin wire under water with an electric current and plotted the heat it gave off against its temperature. He found that boiling has distinct regimes, with a peak heat flow beyond which a film of vapour suddenly blankets the surface.",
+      "why": "His curve is the foundation of every boiler, power station and kettle design since.",
+      "box": "pot",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938–1939",
+      "era": "kitchen",
+      "art": "burner",
+      "key": false,
+      "title": "A pressure cooker for the home stove",
+      "who": "Alfred Vischer; National Presto Industries",
+      "where": "New York, United States",
+      "country": "United States",
+      "text": "Alfred Vischer showed his 'Flex-Seal Speed Cooker' in New York in 1938, and National Presto launched its own saucepan-style cooker at the 1939 New York World's Fair. Earlier pressure cookers had been heavy canning vessels.",
+      "why": "The pressure cooker became an ordinary kitchen pot.",
+      "box": "pressure",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "era": "kitchen",
+      "art": "microwave",
+      "key": false,
+      "title": "Heating water from the inside",
+      "who": "Percy Spencer",
+      "where": "Raytheon, Massachusetts, United States",
+      "country": "United States",
+      "text": "Spencer, an engineer working on radar, noticed that microwaves heat food and patented the microwave oven. Microwaves warm the water itself and not the cup, so water in a smooth cup can pass its boiling point without bubbling.",
+      "why": "That is the superheating hazard in chapter 3: calm-looking water that erupts when disturbed.",
+      "box": "bubbles",
+      "sources": [
+        37,
+        38
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "kitchen",
+      "art": "burner",
+      "key": true,
+      "title": "The pressure cooker comes to Indian kitchens",
+      "who": "Hawkins (H. D. Vasudeva) and TT Private Limited, later TTK Prestige",
+      "where": "Mumbai and Bengaluru, India",
+      "country": "India",
+      "text": "Two Indian companies began making pressure cookers in the same year, both with British partners: Hawkins in Mumbai, founded by H. D. Vasudeva, and Prestige in Bengaluru, made by the TTK group (the company had been set up in 1955). Dal, rice and meat that took an hour now took minutes.",
+      "why": "The cooker's whistle became the sound of the Indian kitchen, and it saves a great deal of cooking fuel.",
+      "box": "pressure",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "1 January 1990",
+      "era": "kitchen",
+      "art": "thermometer",
+      "key": false,
+      "title": "Water no longer boils at exactly 100 °C",
+      "who": "International Committee for Weights and Measures",
+      "where": "Sèvres, France",
+      "country": "France",
+      "text": "The International Temperature Scale of 1990 stopped using the boiling point of water as a fixed point. Measured on that scale, pure water at one standard atmosphere boils at about 99.97 °C.",
+      "why": "The model in this box uses the modern steam tables, so it gives 99.97 °C too.",
+      "box": "",
+      "sources": [
+        41,
+        15,
+        46
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "20 May 2019",
+      "era": "kitchen",
+      "art": "molecule",
+      "key": true,
+      "title": "The kelvin is tied to energy",
+      "who": "General Conference on Weights and Measures",
+      "where": "Versailles, France",
+      "country": "France",
+      "text": "Until 2019 the kelvin was defined by a property of water: its triple point was exactly 273.16 K. Now the kelvin is defined by fixing the Boltzmann constant, the number that links temperature to the energy of molecules.",
+      "why": "Temperature is now officially what chapter 2 shows: a measure of the energy of moving molecules.",
+      "box": "molecules",
+      "sources": [
+        42,
+        43
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "1 February 2021",
+      "era": "kitchen",
+      "art": "burner",
+      "key": false,
+      "title": "Every Indian cooker must carry the ISI mark",
+      "who": "Bureau of Indian Standards; Department for Promotion of Industry and Internal Trade",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "Under the Domestic Pressure Cooker (Quality Control) Order, 2020, cookers made, imported or sold in India must meet Indian Standard IS 2347 and carry the ISI mark. The standard covers the safety valve, the gasket release and pressure tests.",
+      "why": "A cooker stores a lot of energy; the standard exists so that a blocked vent ends with a hiss and not a burst.",
+      "box": "kitchen",
+      "sources": [
+        44,
+        45
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First recorded steam-driven device",
+      "value": "c. 60 CE",
+      "who": "Hero of Alexandria, Roman Egypt"
+    },
+    {
+      "label": "First water boiled by removing air, with no fire",
+      "value": "1660",
+      "who": "Robert Boyle and Robert Hooke, England"
+    },
+    {
+      "label": "First pressure cooker, with the first safety valve",
+      "value": "1679",
+      "who": "Denis Papin, in London"
+    },
+    {
+      "label": "First measurement of latent heat",
+      "value": "1761–62",
+      "who": "Joseph Black, Scotland"
+    },
+    {
+      "label": "First boiling curve",
+      "value": "1934",
+      "who": "Shiro Nukiyama, Japan"
+    },
+    {
+      "label": "First pressure cookers made in India",
+      "value": "1959",
+      "who": "Hawkins, Mumbai, and Prestige, Bengaluru"
+    }
+  ],
+  "people": [
+    {
+      "name": "Maria the Jewess",
+      "life": "1st to 3rd century CE",
+      "role": "Alchemist",
+      "from": "Alexandria, Roman Egypt",
+      "note": "Known only through later writers, she is credited with the water bath that still bears her name, the bain-marie."
+    },
+    {
+      "name": "Denis Papin",
+      "life": "1647 – c. 1713",
+      "role": "Physicist and inventor",
+      "from": "France, worked in England and Germany",
+      "note": "A Huguenot refugee who built the first pressure cooker and its safety valve, and sketched an early piston steam engine."
+    },
+    {
+      "name": "Joseph Black",
+      "life": "1728 – 1799",
+      "role": "Chemist and physician",
+      "from": "Born in Bordeaux to a Scots-Irish family; worked in Scotland",
+      "note": "He discovered latent heat and specific heat, and encouraged the young James Watt."
+    },
+    {
+      "name": "Anders Celsius",
+      "life": "1701 – 1744",
+      "role": "Astronomer",
+      "from": "Sweden",
+      "note": "He tied his temperature scale to the freezing and boiling of water and noted that the boiling point shifts with air pressure."
+    },
+    {
+      "name": "Émile Clapeyron",
+      "life": "1799 – 1864",
+      "role": "Engineer and physicist",
+      "from": "France",
+      "note": "A railway engineer who rescued Carnot's forgotten work and derived the equation for the boiling curve."
+    },
+    {
+      "name": "Nain Singh Rawat",
+      "life": "c. 1830 – 1882",
+      "role": "Explorer and surveyor",
+      "from": "Kumaon, India",
+      "note": "He mapped much of Tibet on foot for the Survey of India, measuring heights with boiling water. The Royal Geographical Society gave him its gold medal in 1877."
+    },
+    {
+      "name": "Shiro Nukiyama",
+      "life": "1896 – 1983",
+      "role": "Engineer",
+      "from": "Japan",
+      "note": "His 1934 wire experiment revealed the regimes of boiling and the limit known as critical heat flux."
+    },
+    {
+      "name": "H. D. Vasudeva",
+      "life": "20th century",
+      "role": "Founder of Hawkins Cookers",
+      "from": "India",
+      "note": "He started making pressure cookers in Mumbai in 1959, with technical help from L. G. Hawkins of England."
+    }
+  ],
+  "series": [
+    {
+      "id": "engine",
+      "title": "How much of the fuel's heat a steam engine turned into work",
+      "unit": "%",
+      "log": true,
+      "after": "heat",
+      "caption": "Rough, widely quoted figures for the best steam plant of each period. Every gain came from understanding boiling and condensing better: Watt's condenser, higher pressures, hotter steam.",
+      "points": [
+        {
+          "year": 1712,
+          "value": 0.5,
+          "label": "Newcomen's engine: about 0.5%"
+        },
+        {
+          "year": 1776,
+          "value": 2,
+          "label": "Watt's engine with a separate condenser: about 2%"
+        },
+        {
+          "year": 1840,
+          "value": 10,
+          "label": "High-pressure Cornish engines: roughly 10%"
+        },
+        {
+          "year": 2015,
+          "value": 45,
+          "label": "Modern ultra-supercritical steam power stations: about 45%"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Pure water at standard sea-level pressure boils at about 99.97 °C, not exactly 100 °C. The scale was redefined after Celsius's day.",
+    "Celsius's original scale ran upside down: water boiled at 0 degrees and froze at 100.",
+    "Boiling a litre of water completely away takes about seven times as much heat as bringing it from room temperature to the boil.",
+    "On the summit of Everest water boils at about 70 °C, too cool to make a proper cup of tea.",
+    "At a pressure of about 3 kPa, one thirtieth of normal, water boils at room temperature, and gets colder as it does."
+  ],
+  "sources": [
+    {
+      "title": "India: The Ancient Home of Distillation? (F. R. Allchin, Man, 1979)",
+      "publisher": "JSTOR",
+      "url": "https://www.jstor.org/stable/2801640"
+    },
+    {
+      "title": "Distillation: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Distillation#History"
+    },
+    {
+      "title": "Aeolipile",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/aeolipile"
+    },
+    {
+      "title": "Aeolipile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aeolipile"
+    },
+    {
+      "title": "Mary the Jewess",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_the_Jewess"
+    },
+    {
+      "title": "Evangelista Torricelli",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Evangelista-Torricelli"
+    },
+    {
+      "title": "Blaise Pascal: physics and the Puy de Dôme experiment",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Blaise-Pascal"
+    },
+    {
+      "title": "Robert Boyle, New Experiments Physico-Mechanicall, Touching the Spring of the Air (1660)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Boyle"
+    },
+    {
+      "title": "Air pump",
+      "publisher": "Science Museum Group / Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vacuum_pump#History"
+    },
+    {
+      "title": "Steam digester",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_digester"
+    },
+    {
+      "title": "Denis Papin",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Denis-Papin"
+    },
+    {
+      "title": "Newcomen atmospheric engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+    },
+    {
+      "title": "Daniel Gabriel Fahrenheit",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Daniel-Gabriel-Fahrenheit"
+    },
+    {
+      "title": "Fahrenheit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fahrenheit"
+    },
+    {
+      "title": "Anders Celsius",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Anders-Celsius"
+    },
+    {
+      "title": "Celsius: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Celsius#History"
+    },
+    {
+      "title": "Leidenfrost effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leidenfrost_effect"
+    },
+    {
+      "title": "Joseph Black",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Joseph-Black"
+    },
+    {
+      "title": "Latent heat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Latent_heat"
+    },
+    {
+      "title": "James Watt",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/James-Watt"
+    },
+    {
+      "title": "Watt steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watt_steam_engine"
+    },
+    {
+      "title": "Jean-André Deluc",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean-Andr%C3%A9_Deluc"
+    },
+    {
+      "title": "Hypsometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypsometer"
+    },
+    {
+      "title": "John Dalton",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/John-Dalton"
+    },
+    {
+      "title": "Vapour pressure of water",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vapour_pressure_of_water"
+    },
+    {
+      "title": "Critical point (thermodynamics): history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)"
+    },
+    {
+      "title": "Clausius–Clapeyron relation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron_relation"
+    },
+    {
+      "title": "Benoît Paul Émile Clapeyron",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Benoit-Paul-Emile-Clapeyron"
+    },
+    {
+      "title": "Rudolf Clausius",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Rudolf-Clausius"
+    },
+    {
+      "title": "Henri-Victor Regnault",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Henri-Victor-Regnault"
+    },
+    {
+      "title": "Nain Singh",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nain_Singh"
+    },
+    {
+      "title": "Ascending the Roof of the World: Nain Singh's Last Exploration",
+      "publisher": "PBS Frontline",
+      "url": "https://www.pbs.org/wgbh/pages/frontline/shows/tibet/ascend/singh.html"
+    },
+    {
+      "title": "François-Marie Raoult",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Francois-Marie-Raoult"
+    },
+    {
+      "title": "Boiling-point elevation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boiling-point_elevation"
+    },
+    {
+      "title": "The Nukiyama Memorial Award",
+      "publisher": "American Society of Thermal and Fluids Engineers",
+      "url": "https://www.astfe.org/awards/nukiyama_memorial_award/"
+    },
+    {
+      "title": "The maximum and minimum values of the heat Q transmitted from metal to boiling water under atmospheric pressure (S. Nukiyama, 1934; English translation 1966)",
+      "publisher": "Heat Transfer Society of Japan",
+      "url": "https://www.htsj.or.jp/wp/media/IJHMT1984-3.pdf"
+    },
+    {
+      "title": "Pressure cooker: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pressure_cooker#History"
+    },
+    {
+      "title": "Percy Spencer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Percy_Spencer"
+    },
+    {
+      "title": "Superheating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superheating"
+    },
+    {
+      "title": "Hawkins Cookers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawkins_Cookers"
+    },
+    {
+      "title": "TTK Prestige",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TTK_Prestige"
+    },
+    {
+      "title": "Guides to thermometry and the International Temperature Scale of 1990",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/committees/cc/cct/guides-to-thermometry"
+    },
+    {
+      "title": "SI base unit: kelvin (K)",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/si-base-units/kelvin"
+    },
+    {
+      "title": "2019 revision of the SI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_revision_of_the_SI"
+    },
+    {
+      "title": "India: Domestic Pressure Cooker (Quality Control) Order, 2020",
+      "publisher": "TÜV Rheinland",
+      "url": "https://www.tuv.com/regulations-and-standards/en/india-domestic-pressure-cooker-quality-control-order-2020.html"
+    },
+    {
+      "title": "Bureau of Indian Standards: products under compulsory certification",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/"
+    },
+    {
+      "title": "Revised Release on the IAPWS Industrial Formulation 1997 for the Thermodynamic Properties of Water and Steam",
+      "publisher": "IAPWS",
+      "url": "http://www.iapws.org/relguide/IF97-Rev.html"
+    },
+    {
+      "title": "Steam engine: efficiency",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_engine#Efficiency"
+    },
+    {
+      "title": "Burns: fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/burns"
+    }
+  ]
+}

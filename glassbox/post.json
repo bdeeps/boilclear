@@ -1,0 +1,126 @@
+{
+  "slug": "boilclear",
+  "box": 95,
+  "question": "How does water boil?",
+  "url": "https://glassbox.how/e/boilclear/",
+  "app": "https://glassbox.how/boilclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a spinning steam ball in Alexandria to the cooker whistle in an Indian kitchen: how people learned what boiling really is.\n\n60: A ball that spins on steam\n1679: The first pressure cooker\n1724: A reliable thermometer, and a clue\n1742: A hundred steps between freezing and boiling\n1762: Hidden heat\n1765: A separate condenser\n\nThe full story, with 28 moments, sources and charts: glassbox.how/e/boilclear/history (link in bio)\n\nThen play with how it works: glassbox.how/boilclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #boiling #water #steam #latentheat #vapourpressure #pressurecooker #history",
+      "youtube": {
+        "title": "The history of boiling water in 45 seconds #shorts",
+        "description": "From a spinning steam ball in Alexandria to the cooker whistle in an Indian kitchen: how people learned what boiling really is.\n\n60 · A ball that spins on steam (Hero of Alexandria)\n1679 · The first pressure cooker (Denis Papin)\n1724 · A reliable thermometer, and a clue (Daniel Gabriel Fahrenheit)\n1742 · A hundred steps between freezing and boiling (Anders Celsius)\n1762 · Hidden heat (Joseph Black)\n1765 · A separate condenser (James Watt)\n\n▶ Full history: https://glassbox.how/e/boilclear/history/\n▶ Play with it: https://glassbox.how/e/boilclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does water boil?\n\nWater does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.\n\n→ Water does not just start boiling. First it shimmers, then tiny air bubbles appear, and then the pot begins to sing.\n→ At 100 °C bubbles of water vapour survive all the way to the top. That is a rolling boil.\n→ Heat is motion. Hotter water means faster molecules, and the fastest ones break free of their neighbours.\n→ A bubble can only survive when the water's vapour pressure matches the air pressing down. At sea level, that is 100 °C.\n→ Then the temperature stops at 100 °C. Boiling a litre away takes 2,257 kilojoules: seven times the heat that brought it to the boil.\n\nPlay with it yourself. It's free and open source: glassbox.how/boilclear (link in bio)\n\nBox No. 095 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #boiling #water #steam #latentheat #vapourpressure #pressurecooker #phasechange #altitude #threejs",
+    "carousel": "Swipe through: How does water boil?\n\nWater does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.\n\nSave this for later, then play with the interactive version at glassbox.how/boilclear (link in bio).\n\nBox No. 095 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #boiling #water #steam #latentheat #vapourpressure #pressurecooker",
+    "youtube": {
+      "title": "How does water boil? #shorts",
+      "description": "Water does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.\n\n▶ Play with it: https://glassbox.how/e/boilclear/\n⌘ Source code (MIT): https://github.com/bdeeps/boilclear\n\nBox No. 095 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does water boil? (interactive explainer)",
+      "description": "Water does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.\n\n▶ Play with the interactive version: https://glassbox.how/e/boilclear/\n⌘ Source code (MIT): https://github.com/bdeeps/boilclear\n\nIn this video:\n• A pot does not boil all at once. Heat flows from the flame through the steel base into the water, and warm water rises while cool water sinks.\n• Temperature is motion. Water molecules never stop moving, and temperature is their average kinetic energy.\n• Boiling is a pressure contest. A bubble inside water is squeezed by the air above.\n• Then the temperature stops. At the boiling point, extra heat no longer warms the water.\n• Change the pressure, move the boiling point. Water boils at about 97 °C in Bengaluru, 92 °C in Shimla, 88 °C in Leh and 70 °C on Everest.\n• Salt, lids and safety. A teaspoon of salt in a litre raises the boiling point by only about 0.1 °C, so it does not make water boil faster.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does water boil?\n\nWater does not boil because it reaches 100 °C.\n\nPlay with it: https://glassbox.how/e/boilclear/",
+    "linkedin": "How does water boil?\n\nWater does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.\n\n1. A pot does not boil all at once\n2. Temperature is motion\n3. Boiling is a pressure contest\n4. Then the temperature stops\n5. Change the pressure, move the boiling point\n6. Salt, lids and safety\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 095 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/boilclear/\nCode: https://github.com/bdeeps/boilclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-01T15:18:58.691Z"
+}

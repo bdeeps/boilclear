@@ -1,0 +1,97 @@
+{
+  "slug": "boilclear",
+  "box": 95,
+  "date": "2026-09-29",
+  "title": "BoilClear",
+  "question": "How does water boil?",
+  "hook": "Water does not boil because it reaches 100 °C. It boils when its vapour can push back as hard as the air presses down, which is why it boils at 88 °C in Leh and 120 °C in a pressure cooker. Heat a pot, watch the molecules and move the pressure yourself.",
+  "thumbText": "HOW WATER BOILS",
+  "field": "physics",
+  "minutes": 15,
+  "tags": [
+    "boiling",
+    "water",
+    "steam",
+    "latent heat",
+    "vapour pressure",
+    "pressure cooker",
+    "phase change",
+    "altitude",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A pot does not boil all at once",
+      "text": "Heat flows from the flame through the steel base into the water, and warm water rises while cool water sinks. First tiny bubbles of dissolved air appear, then the pot 'sings' as vapour bubbles form on the hot base and collapse, and at 100 °C bubbles finally reach the top."
+    },
+    {
+      "title": "Temperature is motion",
+      "text": "Water molecules never stop moving, and temperature is their average kinetic energy. Hydrogen bonds hold the liquid together, but the fastest molecules at the surface break free at any temperature. That is evaporation."
+    },
+    {
+      "title": "Boiling is a pressure contest",
+      "text": "A bubble inside water is squeezed by the air above. It can survive only when the water's vapour pressure equals the pressure outside, which at sea level happens at 100 °C. Bubbles also need a seed, so water in a smooth cup in a microwave can overheat and then erupt."
+    },
+    {
+      "title": "Then the temperature stops",
+      "text": "At the boiling point, extra heat no longer warms the water. It tears molecules free, at 2,257 kJ for every kilogram: seven times the heat that took a litre from 25 °C to the boil. Steam hands that heat back when it condenses, which is why steam burns are so bad."
+    },
+    {
+      "title": "Change the pressure, move the boiling point",
+      "text": "Water boils at about 97 °C in Bengaluru, 92 °C in Shimla, 88 °C in Leh and 70 °C on Everest. A pressure cooker holds about 2 atmospheres, so water stays liquid to about 120 °C and dal cooks in a quarter of the time. In a vacuum jar, water boils at room temperature."
+    },
+    {
+      "title": "Salt, lids and safety",
+      "text": "A teaspoon of salt in a litre raises the boiling point by only about 0.1 °C, so it does not make water boil faster. A lid stops vapour carrying heat away and saves far more gas. Never force open a cooker under pressure, and cool a scald under running water for 20 minutes."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Boiling point",
+      "def": "The temperature at which a liquid's vapour pressure equals the pressure around it. For water at sea level that is about 100 °C."
+    },
+    {
+      "term": "Vapour pressure",
+      "def": "The pressure of the vapour a liquid gives off at a given temperature. It rises steeply as the liquid gets hotter."
+    },
+    {
+      "term": "Latent heat of vaporisation",
+      "def": "The energy needed to turn a liquid into gas without changing its temperature: 2,257 kJ per kilogram for water at 100 °C."
+    },
+    {
+      "term": "Evaporation",
+      "def": "Molecules escaping from the surface of a liquid. Unlike boiling, it happens at any temperature."
+    },
+    {
+      "term": "Nucleation site",
+      "def": "A scratch or trapped air pocket where a bubble can start. Without one, water can become superheated."
+    },
+    {
+      "term": "Clausius–Clapeyron equation",
+      "def": "The rule that links how fast vapour pressure climbs with temperature to the latent heat. It predicts the boiling point at any pressure."
+    },
+    {
+      "term": "Gauge pressure",
+      "def": "Pressure measured above the surrounding air. A pressure cooker runs at about 1 kg/cm² of gauge pressure, about 2 atmospheres in total."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "boilclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
